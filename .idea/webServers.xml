@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="260f3290-796a-464e-bd4f-d6c7e2ec1991" name="boutiqonia" url="http://ik240062.ftp.ukraine.com.ua">
+        <fileTransfer host="ik240062.ftp.ukraine.com.ua" port="21" rootFolder="/vdttest.com/boutiqonia2">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
